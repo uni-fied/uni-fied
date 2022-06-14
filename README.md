@@ -1,5 +1,4 @@
-### Halo, Salam kenal Saya Asep
+# Hi, I'm Asep Septiadi.
+I am an addict to the world of information and technology (IT), I am also very interested in using linux.
 
-[![Hello, Coder; Welcome!!](https://img.shields.io/badge/Hello,Coder!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/uni-fied/uni-fied) 
-[![Repos Badge](https://badges.pufler.dev/repos/uni-fied)](https://github.com/uni-fied?tab=repositories)
-<a> <img src="https://komarev.com/ghpvc/?username=uni-fied&label=Profile%20views&color=00ff00&style=flat-circle" alt="uni-fied" /> </a>
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/uni-fied) [![Linkedin Badge](https://img.shields.io/badge/-Asep%20Septiadi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/asep-septiadi-4b9299162/)](https://www.linkedin.com/in/asep-septiadi-4b9299162/) [![Twitter Badge](http://img.shields.io/badge/-@septia_dy-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/septia_dy)](https://twitter.com/septia_dy)
