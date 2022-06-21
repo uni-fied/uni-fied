@@ -36,7 +36,7 @@ I am currently studying application development technology with `Flutter` with t
 
 ### 🔥 Long Term Project Support
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uni-fied&repo=boke-bre&theme=gruvbox "bokebre V1.0 | Aplikasi Manajemen Keuangan")](https://github.com/uni-fied/boke-bre)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uni-fied&repo=boke-bre&theme=gruvbox "bokebre V1.0 | Aplikasi Manajemen Keuangan")](https://github.com/uni-fied/boke-bre) &nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uni-fied&repo=backend-native&theme=gotham "API Aplikasi bokebre V1.0 | Aplikasi Manajemen Keuangan")](https://github.com/uni-fied/backend-native)
 
 ### :artificial_satellite: Connect with me in
 
