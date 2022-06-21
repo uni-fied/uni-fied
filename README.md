@@ -36,6 +36,8 @@ I am currently studying application development technology with `Flutter` with t
 
 ### 🔥 Long Term Project Support
 
+- Aplikasi Mobile Apps Bokebre V1.0 | `Management Keuangan Pribadi`
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uni-fied&repo=boke-bre&theme=gruvbox "bokebre V1.0 | Aplikasi Manajemen Keuangan")](https://github.com/uni-fied/boke-bre) &nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uni-fied&repo=backend-native&theme=material-palenight "Backend API Aplikasi bokebre V1.0 | Aplikasi Manajemen Keuangan")](https://github.com/uni-fied/backend-native)
 
 ### :artificial_satellite: Connect with me in
@@ -45,3 +47,5 @@ I am currently studying application development technology with `Flutter` with t
 ### :hearts: Activities 
 
 <img src="https://github-readme-stats.vercel.app/api?username=uni-fied&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Septiyadi's GitHub Stats">
+
+Copyright © 2022 Asep Septiadi. All right reserved.
