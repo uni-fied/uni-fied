@@ -38,7 +38,7 @@ I am currently studying application development technology with `Flutter` with t
 
 Saat ini saya sedang mendalami teknologi baru dalam dunia koding yakni
 
-https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+![Dart Programming]({https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white}) ![Laravel Framework]({https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white})
 
 ### 🔥 Long Term Project Support
 
