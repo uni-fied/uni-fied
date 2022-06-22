@@ -11,7 +11,7 @@ I am currently studying application development technology with `Flutter` with t
 - Java Android Developer at [Goodeva Technology](https://goodeva.co.id) | from 2021 - Present <br />
 - Software Engineer & Teacher at [Rabbaanii Islamic School](https://rabbaanii.sch.id/) | from 2018 - 2021
 
-### :sparkles: Knowladge & Tools 
+### :sparkles: Skill Knowladge & Tools 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 	![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
