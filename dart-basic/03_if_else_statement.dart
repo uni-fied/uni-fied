@@ -7,3 +7,9 @@ void main() {
     print("Gaji anda sudah UMR");
   }
 }
+
+ /* 
+ * Output dari hasil eksekusi program diatas berikut : 
+ * 
+ * Gaji anda sudah UMR
+ * */
