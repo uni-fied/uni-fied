@@ -19,7 +19,7 @@ I am currently studying application development technology with `Flutter` with t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uni-fied&layout=compact)](https://github.com/uni-fied)
 
-### :comet: Article & Riset
+### :comet: Article, Riset & Study Class
 
 - [Real case Java Programming (for Android Developer)](https://github.com/uni-fied/uni-fied/wiki#a-real-case-java-programming-for-android-developer) @ Wiki GitHub
 
