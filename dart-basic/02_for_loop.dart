@@ -8,8 +8,6 @@ void main() {
 }
 
  /* 
-/* 
- /* 
  * Output dari hasil eksekusi program diatas berikut : 
  * 
  * Football Club ke-0 Liverpool
