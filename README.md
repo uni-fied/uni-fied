@@ -8,7 +8,7 @@ I am currently studying application development technology with `Flutter` with t
 
 ### :zap: Work Experiences
 
-- Android Developer at [Goodeva Technology](https://goodeva.co.id) | from 2021 - Present <br />
+- Java Android Developer at [Goodeva Technology](https://goodeva.co.id) | from 2021 - Present <br />
 - Software Engineer & Teacher at [Rabbaanii Islamic School](https://rabbaanii.sch.id/) | from 2018 - 2021
 
 ### :sparkles: Knowladge & Tools 
