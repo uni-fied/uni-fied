@@ -34,6 +34,12 @@ I am currently studying application development technology with `Flutter` with t
 
 - [Real case Java Programming (for Android Developer)](https://github.com/uni-fied/uni-fied/wiki#a-real-case-java-programming-for-android-developer) @ Wiki GitHub
 
+### Upskill
+
+Saat ini saya sedang mendalami teknologi baru dalam dunia koding yakni
+
+https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+
 ### 🔥 Long Term Project Support
 
 - Aplikasi Mobile Apps Bokebre V1.0 | `Management Keuangan Pribadi`
@@ -45,7 +51,6 @@ I am currently studying application development technology with `Flutter` with t
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/uni-fied) [![Linkedin Badge](https://img.shields.io/badge/-Asep%20Septiadi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/asep-septiadi-4b9299162/)](https://www.linkedin.com/in/asep-septiadi-4b9299162/) [![Twitter Badge](http://img.shields.io/badge/-@septia_dy-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/septia_dy)](https://twitter.com/septia_dy) [![Instagram Badge](https://img.shields.io/badge/-@devadiroot-blue?style=social&logo=Instagram&link=https://https://www.instagram.com/devadiroot/)](https://www.instagram.com/devadiroot/) <img src="https://komarev.com/ghpvc/?username=uni-fied" alt="uni-fied" /> ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=uni-fied) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKH2mRfjzB9Kb_Lpez_cwbA?label=Subscribe%20My%20Channel&style=social)
 
 ### :hearts: Activities 
-
 
 ![Septiyadi's GitHub stats](https://github-readme-stats.vercel.app/api/?username=uni-fied&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
