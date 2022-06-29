@@ -40,6 +40,10 @@ I'm currently exploring a new technology in the world of coding
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uni-fied&repo=boke-bre&theme=gruvbox "bokebre V1.0 | Aplikasi Manajemen Keuangan")](https://github.com/uni-fied/boke-bre) &nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uni-fied&repo=backend-native&theme=material-palenight "Backend API Aplikasi bokebre V1.0 | Aplikasi Manajemen Keuangan")](https://github.com/uni-fied/backend-native)
 
+- GitHub Pages : Jurnal Kodinganku! V1.0 BETA LTS 🔥 | `Portofolio & Archivment Pribadi`
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uni-fied&repo=my-dokku-website&theme=vue-dark "Jurnal Kodinganku!")]([https://github.com/uni-fied/boke-bre](https://github.com/uni-fied/my-dokku-website))
+
 ### :artificial_satellite: Connect with me in
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/uni-fied) [![Linkedin Badge](https://img.shields.io/badge/-Asep%20Septiadi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/asep-septiadi-4b9299162/)](https://www.linkedin.com/in/asep-septiadi-4b9299162/) [![Twitter Badge](http://img.shields.io/badge/-@septia_dy-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/septia_dy)](https://twitter.com/septia_dy) [![Instagram Badge](https://img.shields.io/badge/-@devadiroot-blue?style=social&logo=Instagram&link=https://https://www.instagram.com/devadiroot/)](https://www.instagram.com/devadiroot/) <img src="https://komarev.com/ghpvc/?username=uni-fied" alt="uni-fied" /> ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=uni-fied) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKH2mRfjzB9Kb_Lpez_cwbA?label=Subscribe%20My%20Channel&style=social)
