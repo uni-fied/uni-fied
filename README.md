@@ -42,7 +42,7 @@ I'm currently exploring a new technology in the world of coding
 
 - GitHub Pages : Jurnal Kodinganku! V1.0 BETA LTS 🔥 | `Portofolio & Archivment Pribadi`
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uni-fied&repo=my-dokku-website&theme=vue-dark "Jurnal Kodinganku!")]([https://github.com/uni-fied/boke-bre](https://github.com/uni-fied/my-dokku-website))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uni-fied&repo=my-dokku-website&theme=vue-dark "Jurnal Kodinganku!")](https://github.com/uni-fied/my-dokku-website)
 
 ### :artificial_satellite: Connect with me in
 
